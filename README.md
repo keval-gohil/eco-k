@@ -2,8 +2,6 @@
 
 Ready to use [Next.js](https://nextjs.org) v14 (TypeScript)
 
-Free 👍. Ready to use 😎. Just clone & deploy! 🤘
-
 ## Features
 
 - [x] Next.js v14 - The new App router
